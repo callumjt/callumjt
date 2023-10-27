@@ -2,7 +2,13 @@
 <foreignObject width="100%" height="100%">
 <div xmlns="http://www.w3.org/1999/xhtml">
 
-  <p align="center"><img src="images/CallumJt.png" style="border-radius:8px;"></p>
+  <style>
+    .img {
+      border-radius: 8px;
+    }
+  </style>
+
+  <p align="center"><img src="images/CallumJt.png" class="img"></p>
 
   <p align="center">
     👋 Hello, im callum<br>
