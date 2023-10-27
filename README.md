@@ -1,4 +1,4 @@
-<img src="./images/CallumJt.png" border-radius="8px">
+<img src="./images/CallumJt.png" border-radius="8px" align="center">
 
 <p align="center">
   👋 Hello, im callum<br>
