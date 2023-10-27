@@ -1,6 +1,5 @@
-<div align="center" style="border-radius: 8px">
-  <img src="./images/CallumJt.png" border-radius="8px">
-</div>
+<img src="./images/CallumJt.png" border-radius="8px">
+
 <p align="center">
   👋 Hello, im callum<br>
   🌐 Im a js and web developer<br>
