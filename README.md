@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/CallumJt.png">
+  <img src="./images/CallumJt.png" style="border-radius: 10px;">
 </p>
 <p align="center">
   👋 Hello, im callum<br>
