@@ -1,4 +1,6 @@
-<img src="./images/CallumJt.png" align="center">
+<p align="center">
+  <img src="./images/CallumJt.png">
+</p>
 <p align="center">
   Hello<br>
   test<br>
