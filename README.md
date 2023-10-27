@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" border-radius="10px">
   <img src="./images/CallumJt.png" style="border-radius: 10px;">
 </p>
 <p align="center">
